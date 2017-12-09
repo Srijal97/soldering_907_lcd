@@ -11,8 +11,10 @@ A PCB with support for OLED display instead of 8x2 alphanumeric LCD has been mad
 
 on a 19V DC Power Supply. It would be much faster on a 24V supply.
 
+![](https://s2.postimg.org/z2jpyljkp/IMG_20171209_132258.jpg)
 
-
-
+![](https://s2.postimg.org/4xv9d99cp/IMG_20171209_132323.jpg)
 
 I have 5 extra PCBs left, which I won't be using. So, if anybody wants one, I'll send it to you for just the shipping cost from Mumbai, India to your place. 
+
+![](https://s2.postimg.org/6po886fux/IMG_20171209_132703.jpg)
