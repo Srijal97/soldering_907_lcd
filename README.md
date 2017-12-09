@@ -1,5 +1,6 @@
 # Soldering Iron Controller for Hakko 907
 This is a project based on 'Soldering Iron Controller for Hakko 907 v.2', by Alexander (sfrwmaker).
+- [Hackster](https://www.hackster.io/sfrwmaker/soldering-iron-controller-for-hakko-907-v-2-fc75d7)
 - [Instructables](http://www.instructables.com/id/Soldering-Iron-Controller-for-Hakko-907/)
 - [GitHub](https://github.com/sfrwmaker/soldering_907_lcd)
 
